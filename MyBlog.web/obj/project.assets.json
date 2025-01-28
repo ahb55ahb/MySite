@@ -2840,11 +2840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
+      "projectUniqueName": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core&data\\MyBlog.web\\MyBlog.web.csproj",
       "projectName": "MyBlog.web",
-      "projectPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
+      "projectPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core&data\\MyBlog.web\\MyBlog.web.csproj",
       "packagesPath": "C:\\Users\\SMHG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\obj\\",
+      "outputPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core&data\\MyBlog.web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2910,7 +2910,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
