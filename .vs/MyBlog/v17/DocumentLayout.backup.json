@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core\u0026data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\02.myblog.core\u0026data\\myblog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\02.myblog.core\u0026data\\myblog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\02.myblog.core\u0026data\\myblog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\02.myblog.core\u0026data\\myblog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\02.myblog.core\u0026data\\myblog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\02.myblog.core\u0026data\\myblog.datalayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\02.myblog.core\u0026data\\myblog.corelayer\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\02.myblog.core\u0026data\\myblog.corelayer\\utilities\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\utilities\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\02.myblog.core\u0026data\\myblog.datalayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\02.myblog.core\u0026data\\myblog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,11 +114,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core\u0026data\\MyBlog.DataLayer\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "MyBlog.DataLayer\\Entities\\Category.cs",
@@ -128,10 +132,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T13:58:05.881Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
             {
               "$type": "Document",
@@ -148,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core\u0026data\\MyBlog.DataLayer\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MyBlog.DataLayer\\Entities\\User.cs",
@@ -156,11 +156,12 @@
               "RelativeToolTip": "MyBlog.DataLayer\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:20:47.496Z"
+              "WhenOpened": "2024-12-24T11:20:47.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core\u0026data\\MyBlog.CoreLayer\\Services\\Users\\IUserService.cs",
               "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Services\\Users\\IUserService.cs",
@@ -172,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TextHelper.cs",
               "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core\u0026data\\MyBlog.CoreLayer\\Utilities\\TextHelper.cs",
               "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Utilities\\TextHelper.cs",
@@ -184,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core\u0026data\\MyBlog.DataLayer\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "MyBlog.DataLayer\\Entities\\BaseEntity.cs",
@@ -192,7 +193,8 @@
               "RelativeToolTip": "MyBlog.DataLayer\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:20:16.143Z"
+              "WhenOpened": "2024-12-24T11:20:16.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

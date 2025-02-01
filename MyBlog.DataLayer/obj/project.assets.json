@@ -4734,23 +4734,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SMHG\\.nuget\\packages\\": {},
+    "C:\\Users\\ahb55ahb\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core&data\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+      "projectUniqueName": "D:\\MySite\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
       "projectName": "MyBlog.DataLayer",
-      "projectPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core&data\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
-      "packagesPath": "C:\\Users\\SMHG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\02.MyBlog.core&data\\MyBlog.DataLayer\\obj\\",
+      "projectPath": "D:\\MySite\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+      "packagesPath": "C:\\Users\\ahb55ahb\\.nuget\\packages\\",
+      "outputPath": "D:\\MySite\\MyBlog.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SMHG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ahb55ahb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4759,7 +4759,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4776,7 +4775,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
