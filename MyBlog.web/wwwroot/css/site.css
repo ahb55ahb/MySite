@@ -1,22 +1,47 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
+﻿/* حذف فاصله اضافی از body */
 body {
-  margin-bottom: 60px;
+    margin: 0;
+    padding: 0;
 }
+
+/* تنظیمات نوار ناوبری */
+.navbar {
+    position: fixed; /* ثابت ماندن navbar در بالای صفحه */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1030;
+    background-color: white; /* رنگ پس‌زمینه برای جلوگیری از شفافیت */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* فاصله دادن به محتوای صفحه برای جلوگیری از همپوشانی با navbar */
+main {
+    padding-top: 70px; /* مقدار باید برابر ارتفاع navbar باشه */
+}
+
+/* اطمینان از اینکه نوار ناوبری به درستی نمایش داده می‌شود */
+.navbar-nav {
+    margin: 0;
+    padding: 0;
+}
+
+/* تنظیمات برای container-fluid */
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0;
+}
+
+/* اصلاح موقعیت فوتر */
+footer {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+    /* اطمینان از قرارگیری فوتر در پایین */
+    footer .container-fluid {
+        padding: 15px 0;
+    }
