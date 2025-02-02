@@ -5,372 +5,228 @@
       "PackagePath": "staticwebassets\\MyBlog.web.98aewkka8b.bundle.scp.css"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\css\\magnific-popup.css",
-      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\css\\owl.carousel.css",
-      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\css\\owl.theme.css",
-      "PackagePath": "staticwebassets\\css\\owl.theme.css"
-    },
-    {
       "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\css\\tooplate-style.css",
-      "PackagePath": "staticwebassets\\css\\tooplate-style.css"
     },
     {
       "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\100x100.png",
+      "PackagePath": "staticwebassets\\images\\demo\\100x100.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\348x220.png",
+      "PackagePath": "staticwebassets\\images\\demo\\348x220.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\348x261.png",
+      "PackagePath": "staticwebassets\\images\\demo\\348x261.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\480x300.png",
+      "PackagePath": "staticwebassets\\images\\demo\\480x300.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\avatar.png",
+      "PackagePath": "staticwebassets\\images\\demo\\avatar.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\backgrounds\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\backgrounds\\01.jpg"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\contact-bg.jpg",
-      "PackagePath": "staticwebassets\\images\\contact-bg.jpg"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\backgrounds\\Prof.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\backgrounds\\Prof.jpg"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\project-image1.jpg",
-      "PackagePath": "staticwebassets\\images\\project-image1.jpg"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\backgrounds\\index.html",
+      "PackagePath": "staticwebassets\\images\\demo\\backgrounds\\index.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\project-image2.jpg",
-      "PackagePath": "staticwebassets\\images\\project-image2.jpg"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\images\\demo\\gallery\\01.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\project-image3.jpg",
-      "PackagePath": "staticwebassets\\images\\project-image3.jpg"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\gallery\\CSS.png",
+      "PackagePath": "staticwebassets\\images\\demo\\gallery\\CSS.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\project-image4.jpg",
-      "PackagePath": "staticwebassets\\images\\project-image4.jpg"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\gallery\\Csharp1.png",
+      "PackagePath": "staticwebassets\\images\\demo\\gallery\\Csharp1.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\team-image1.jpg",
-      "PackagePath": "staticwebassets\\images\\team-image1.jpg"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\gallery\\Csharp2.png",
+      "PackagePath": "staticwebassets\\images\\demo\\gallery\\Csharp2.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\team-image2.jpg",
-      "PackagePath": "staticwebassets\\images\\team-image2.jpg"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\gallery\\HTML.png",
+      "PackagePath": "staticwebassets\\images\\demo\\gallery\\HTML.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\team-image3.jpg",
-      "PackagePath": "staticwebassets\\images\\team-image3.jpg"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\gallery\\JS.png",
+      "PackagePath": "staticwebassets\\images\\demo\\gallery\\JS.png"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\team-image4.jpg",
-      "PackagePath": "staticwebassets\\images\\team-image4.jpg"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\gallery\\index.html",
+      "PackagePath": "staticwebassets\\images\\demo\\gallery\\index.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\imgl.gif",
+      "PackagePath": "staticwebassets\\images\\demo\\imgl.gif"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\js\\custom.js",
-      "PackagePath": "staticwebassets\\js\\custom.js"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\imgr.gif",
+      "PackagePath": "staticwebassets\\images\\demo\\imgr.gif"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\js\\jquery.js",
-      "PackagePath": "staticwebassets\\js\\jquery.js"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\demo\\index.html",
+      "PackagePath": "staticwebassets\\images\\demo\\index.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\js\\jquery.magnific-popup.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\js\\jquery.parallax.js",
-      "PackagePath": "staticwebassets\\js\\jquery.parallax.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\js\\magnific-popup-options.js",
-      "PackagePath": "staticwebassets\\js\\magnific-popup-options.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\js\\modernizr.custom.js",
-      "PackagePath": "staticwebassets\\js\\modernizr.custom.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\js\\owl.carousel.min.js",
-      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\images\\index.html",
+      "PackagePath": "staticwebassets\\images\\index.html"
     },
     {
       "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\js\\smoothscroll.js",
-      "PackagePath": "staticwebassets\\js\\smoothscroll.js"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\index.html",
+      "PackagePath": "staticwebassets\\layout\\index.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\scripts\\index.html",
+      "PackagePath": "staticwebassets\\layout\\scripts\\index.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\scripts\\jquery.backtotop.js",
+      "PackagePath": "staticwebassets\\layout\\scripts\\jquery.backtotop.js"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\scripts\\jquery.min.js",
+      "PackagePath": "staticwebassets\\layout\\scripts\\jquery.min.js"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\scripts\\jquery.mobilemenu.js",
+      "PackagePath": "staticwebassets\\layout\\scripts\\jquery.mobilemenu.js"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\css\\all.css"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\css\\index.html",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\css\\index.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\index.html",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\index.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\index.html",
+      "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\index.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\framework.css",
+      "PackagePath": "staticwebassets\\layout\\styles\\framework.css"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\index.html",
+      "PackagePath": "staticwebassets\\layout\\styles\\index.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\layout\\styles\\layout.css",
+      "PackagePath": "staticwebassets\\layout\\styles\\layout.css"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\pages\\basic-grid.html",
+      "PackagePath": "staticwebassets\\pages\\basic-grid.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\pages\\font-icons.html",
+      "PackagePath": "staticwebassets\\pages\\font-icons.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\pages\\full-width.html",
+      "PackagePath": "staticwebassets\\pages\\full-width.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\pages\\gallery.html",
+      "PackagePath": "staticwebassets\\pages\\gallery.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\pages\\index.html",
+      "PackagePath": "staticwebassets\\pages\\index.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\pages\\sidebar-left.html",
+      "PackagePath": "staticwebassets\\pages\\sidebar-left.html"
     },
     {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\php\\contact.php",
-      "PackagePath": "staticwebassets\\php\\contact.php"
-    },
-    {
-      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\videos\\video.mp4",
-      "PackagePath": "staticwebassets\\videos\\video.mp4"
+      "Id": "D:\\MySite\\MyBlog.web\\wwwroot\\pages\\sidebar-right.html",
+      "PackagePath": "staticwebassets\\pages\\sidebar-right.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyBlog.web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
